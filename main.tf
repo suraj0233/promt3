@@ -1,3 +1,5 @@
+#stack_name : new
+
 # aws_integration.tf
 terraform {
   required_providers {
